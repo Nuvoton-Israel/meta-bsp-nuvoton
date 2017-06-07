@@ -1,7 +1,7 @@
 #require linux-nuvoton.inc
 
 KBRANCH = "Poleg-4.10.15"
-SRCREV = "83a6c8fc9d7c6e31bae64d195860beac245741d0"
+SRCREV = "da74b9753fed17fb8e7d5c10f63d31ef752252d6"
 
 SRC_URI = "git://github.com/Nuvoton-Israel/linux;protocol=git;branch=${KBRANCH};protocol=https \
 		   file://phosphor-gpio-keys.scc \
